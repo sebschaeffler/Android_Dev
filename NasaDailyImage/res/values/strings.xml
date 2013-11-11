@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa-Image of the day</string>
+    <string name="action_settings">Settings</string>
+    <string name="wallpaperSet">Wallpaper set</string>
+    <string name="networkNotAvailable">Data connection not available</string>
+    <string name="loading">Loading</string>
+    <string name="loading_desc">Loading image of the day&#8230;</string>
+    <string name="refresh">Refresh</string>
+    <string name="setwallpaper">Set Wallpaper</string>
+    <string name="about">About</string>
+    <string name="iotdContentDescription">Image Of The Day</string>
+    <string name="bidisoftDescription">Developed by:\nSébastien Schaeffler\nhttp://www.bidisoft.fr</string>
+
+</resources>

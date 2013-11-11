@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="about">A propos</string>
+    <string name="action_settings">Réglages</string>
+    <string name="wallpaperSet">Papier peint appliqué</string>
+    <string name="networkNotAvailable">Connexion données non disponible</string>
+    <string name="loading">Chargement</string>
+    <string name="loading_desc">Chargement de l\'image du jour&#8230;</string>
+    <string name="app_name">Nasa - Image du jour</string>
+    <string name="iotdContentDescription">Image du jour</string>
+    <string name="refresh">Actualiser</string>
+    <string name="setwallpaper">Fond d\'écran</string>
+    <string name="bidisoftDescription">Developpé par\nSébastien Schaeffler\nhttp://www.bidisoft.fr</string>
+
+</resources>
